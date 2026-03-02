@@ -1,0 +1,9 @@
+{
+  "name": "cv-expert",
+  "version": "1.0.0",
+  "description": "AI-powered resume optimization with 7-dimension diagnosis, interactive gap Q&A, and Word comment annotations. Supports 校招/社招 modes with Evidence Mining & Reframing.",
+  "author": {
+    "name": "Jenelle Ma"
+  },
+  "keywords": ["resume", "job-search", "career", "chinese", "ats", "word-document", "校招", "社招"]
+}

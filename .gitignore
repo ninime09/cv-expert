@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Claude local cache
+.claude/
+
+# Editor
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
